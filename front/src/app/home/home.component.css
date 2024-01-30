@@ -1,0 +1,13 @@
+.welcome-hero-txt h2,
+.welcome-hero-txt p ,
+.welcome-hero-serch{
+  text-align: left;
+}
+
+@media (max-width: 768px){
+  .welcome-hero-txt h2,
+  .welcome-hero-txt p,
+  .welcome-hero-serch{
+    text-align: center;
+  }
+}

@@ -1,0 +1,22 @@
+.navbar-nav a{
+  cursor: pointer;
+}
+.active-link{
+  color: red;
+}
+.username-display {
+  padding: 10px 20px;
+  margin-left: 10px;
+  color: #fff;
+  background-color: #FFA500;
+  border-radius: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.username-display:hover {
+  background-color: #e69500;
+}
